@@ -16,5 +16,5 @@ body {
 
 .item {
   background: #f00;
-  border: solid #000 1px;
+  outline: solid #000 1px;
 }
